@@ -1,0 +1,4 @@
+#Fri Mar 24 19:45:11 BDT 2023
+base.0=C\:\\Users\\HP\\Desktop\\Flutter Design\\Ramadan Planner\\ramadan_planner\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

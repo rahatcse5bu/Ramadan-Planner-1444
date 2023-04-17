@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "706096862591",
+    "project_id": "ramadan-planner-d05e5",
+    "storage_bucket": "ramadan-planner-d05e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706096862591:android:9bf7d43a6e8688ab6c764a",
+        "android_client_info": {
+          "package_name": "com.example.ramadan_planner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "706096862591-kptmf5m4dncv8dkq36mqma4dvkq8hdks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZ7FYP0jo_Z-inZkLbJHVTbjOadRiCG-I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "706096862591-kptmf5m4dncv8dkq36mqma4dvkq8hdks.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
